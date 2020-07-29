@@ -1,3 +1,5 @@
+If you want to see developer process, going in the original repository - https://github.com/Sermonic/next
+
 ## Used in this application:
 
 - Next.js
